@@ -36,6 +36,8 @@ class HelloWorld(unittest.TestCase):
 
         self.assert_(Message.is_displayed())
 
+        # test
+
 
 
 
